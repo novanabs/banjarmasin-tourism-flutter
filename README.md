@@ -31,7 +31,7 @@ How the app so far ? you can watch in this link https://youtu.be/ZwG1dl9BMO4
 
 
 ## Want to Taste it ?
-Just clone this repo and run in your favorite IDE that support smartphone emulator.
-And then change the API KEY in ios/Runner/AppDelegate.m and android/app/src/main/AndroidManifest.xml
+Just clone this repo and run in your favorite IDE that support smartphone emulator and then change the API KEY in ios/Runner/AppDelegate.m and android/app/src/main/AndroidManifest.xml. just find with keyword "CHANGE WITH YOURS"
+
 
 
